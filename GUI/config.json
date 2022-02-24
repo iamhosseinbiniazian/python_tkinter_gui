@@ -1,0 +1,14 @@
+{
+"prefer":[],
+"exclude":["*/.svn", "*/.bzr"],
+"defaults":0,
+"dry_run":"None",
+"exact":0,
+"min_size":25,
+"noninteractive":"None",
+"deletedup":0,
+"dir":"/home/apasai",
+"engine":["Google","Flickr","Bing"],
+"safe search":0
+
+}
