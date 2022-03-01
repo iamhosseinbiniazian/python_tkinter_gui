@@ -6,7 +6,7 @@ This is  GUI project in python and tkinter that can used for the front-end part 
 - Object Oriented programming 
 # Screenshot
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot_2.png)
 ## Installation
 - it doesn't need any kind of installation.
 
